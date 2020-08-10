@@ -14,5 +14,5 @@ print(int(v)+10)
 
 print('1.0\n2\nTrue\nFalse\nFalse')
 
-v = "fff"*4
+v = "fff"*2
 print(v)
